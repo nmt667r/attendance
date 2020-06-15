@@ -1,0 +1,32 @@
+header{
+    background-color:#afeeee;
+    margin:0px;
+}
+
+.hidden{
+    color:gray;
+}
+
+.logo{
+    font-size:25px;
+    margin-right:0px;
+    margin-left:auto;
+
+}
+
+.header_nav{
+    margin:auto 0px auto 10px;
+    text-align:center;
+}
+
+.red{
+    color:red;
+}
+.flex{
+    display:flex;
+}
+
+a{
+    text-decoration: none;
+    color:blue;
+}
