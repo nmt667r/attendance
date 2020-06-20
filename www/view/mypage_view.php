@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+cd<!DOCTYPE html>
 <html lang="ja">
 <head>
     <?php require_head_common('マイページ') ?>
