@@ -8,7 +8,7 @@
     <?php include_once '../view/template/header.php' ?>
     <div class="center">
         <?php if(isset($_SESSION['user_name']) ===TRUE){?>
-            <div>ようこそ<?php echo $_SESSION['user_name']?></div>
+            <div>ようこそ<?php echo h($_SESSION['user_name'])?>さん</div>
         <?php } ?>
         <form method="get">
             <input type="submit" value="退勤打刻">
